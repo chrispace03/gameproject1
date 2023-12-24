@@ -1,0 +1,5 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="Background" style="flex-grow: 1; background-image: url(&apos;project://database/Assets/Undead%20Survivor/Sprites/UI.png?fileID=-1010605625&amp;guid=d71a3dc7aa20fad4f9a99fc76a9254ba&amp;type=3#Back 0&apos;); width: 100%; height: 100%;">
+        <ui:Label tabindex="-1" text="This is a crop." parse-escape-sequences="true" display-tooltip-when-elided="true" style="width: 100%; height: 100%; margin-top: 25px; margin-right: 25px; margin-bottom: 25px; margin-left: 25px; font-size: 16px; -unity-font-style: normal; flex-wrap: wrap;" />
+    </ui:VisualElement>
+</ui:UXML>
